@@ -1,4 +1,6 @@
 ### Hi there, I'm Hubert 👋
+<img align="left" alt="night coding" src="/banner.png"/>
+
 
 ## I'm a Front-End Developer who specializes in building Websites with React
 
@@ -30,7 +32,7 @@
 
 ---
 
-<img align="left" alt="night coding" src="/banner.png"/>
+
 
 [website]: https://fir-hosting-portfolio-7ae0c.web.app/
 [linkedin]: https://www.linkedin.com/in/hubert-karwowski/
